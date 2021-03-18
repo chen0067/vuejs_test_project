@@ -6,7 +6,7 @@
 ### serve with localhost:8080
 `Then run command - npm run serve`
 
-### __other serving options:__
+# __other serving options:__
 ### serve with hot reload at localhost:8080
 `npm run dev`
 ### build for production with minification
